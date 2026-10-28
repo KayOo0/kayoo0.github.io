@@ -1,6 +1,6 @@
 ---
 image: ../../assets/artworks/my-runnaway-uyd3hc.jpeg
-title: My Runnaway
+title: My Runaway
 year: 2025
 medium: Watercolor, color pencil, acrylic marker, charcoal, matte medium, and color pastel on watercolor paper and foam board.
 status: available
