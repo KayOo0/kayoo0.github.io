@@ -15,7 +15,16 @@
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "Kayo Odusote’s high school visual art portfolio featuring works from his Rutgers Preparatory School art classes, also including his early interdisciplinary projects from his Biological & Abstractive Synthesis independent study.",
-  "socialLinks": [],
+  "socialLinks": [
+    {
+      "label": "LinkedIn ",
+      "url": "https://www.linkedin.com/in/kayo-o-8b831137a?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.linkedin.com/in/kayo-o-8b831137a?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+    }
+  ],
   "supportLinks": [],
   "linksEnabled": false,
   "links": [],
