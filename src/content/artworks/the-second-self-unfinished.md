@@ -5,7 +5,7 @@ year: 2026
 medium: Watercolor on watercolor paper.
 status: available
 alt: Junior year final; Large sized self portrait painting; One part of an ongoing abstract composition.
-order: 1
+order: 0
 featured: false
 ---
 

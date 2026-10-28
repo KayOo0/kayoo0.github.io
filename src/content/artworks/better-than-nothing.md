@@ -5,7 +5,7 @@ year: 2023
 medium: Graphite on paper.
 status: available
 alt: Freshamn year personal work; Medium sized sketch.
-order: 14
+order: 13
 featured: false
 ---
 

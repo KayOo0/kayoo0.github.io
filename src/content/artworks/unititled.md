@@ -5,7 +5,7 @@ year: 2025
 medium: Paper plates and glue on foam board.
 status: available
 alt: Junior year non objective; Large sized abstract sculpture.
-order: 5
+order: 4
 featured: false
 ---
 

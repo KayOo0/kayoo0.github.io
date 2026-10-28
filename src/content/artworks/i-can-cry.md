@@ -5,7 +5,7 @@ year: 2024
 medium: Acrylic on canvas
 status: available
 alt: Sophmore year portrait; Medium sized self portrait painting; Inspired by ‘The River’ music video by Aurora
-order: 8
+order: 7
 featured: false
 ---
 

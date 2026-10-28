@@ -5,7 +5,7 @@ year: 2025
 medium: Acrylic on canvas.
 status: available
 alt: Junior year abstract; Medium sized abstract painting; Ongoing composition.
-order: 4
+order: 3
 featured: false
 ---
 
