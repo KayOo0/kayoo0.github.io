@@ -1,7 +1,8 @@
 {
-  "repo": "REPLACED_AT_PROVISION",
+  "repo": "KayOo0/kayoo0.github.io",
   "branch": "main",
   "authBaseUrl": "https://auth.usegesso.com",
-  "host": "netlify",
-  "formEndpoint": ""
+  "host": "github-pages",
+  "formEndpoint": "",
+  "gessoVersion": "0.43.3"
 }
