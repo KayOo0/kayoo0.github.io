@@ -1,7 +1,7 @@
 {
-  "siteTitle": "Your portfolio",
+  "siteTitle": "Kayo",
   "tagline": "",
-  "logoText": "Your name",
+  "logoText": "Highschool & BAS Visual Art Portfolio",
   "theme": "default",
   "fontPairing": "jost-hanken-grotesk",
   "portfolioLayout": "masonry",
@@ -15,5 +15,108 @@
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "",
-  "socialLinks": []
+  "socialLinks": [],
+  "supportLinks": [],
+  "linksEnabled": false,
+  "links": [],
+  "searchEnabled": false,
+  "cvAutoExhibitions": false,
+  "commissionsMode": "form",
+  "analyticsProvider": "none",
+  "sellEnabled": false,
+  "availableForWork": false,
+  "newsletterEnabled": false,
+  "newsletterProvider": "netlify",
+  "stockists": [],
+  "design": {
+    "preset": "pastel",
+    "color": {
+      "background": "#fbf7fb",
+      "surface": "#ffffff",
+      "text": "#3a2f4a",
+      "muted": "#9a8fb0",
+      "accent": "#9b7fd4",
+      "accent2": "#e58ab0",
+      "border": "#e6dcec",
+      "link": "#9b7fd4",
+      "heading": "#3a2f4a"
+    },
+    "type": {
+      "headingFont": "Playfair Display",
+      "bodyFont": "Mohave",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "baseSize": 18,
+      "headingTransform": "none",
+      "letterSpacing": 0
+    },
+    "shape": {
+      "radius": 18,
+      "borderWidth": 1,
+      "shadows": "soft"
+    },
+    "density": "airy",
+    "contentWidth": "normal",
+    "readingWidth": "relaxed",
+    "motion": "smooth",
+    "nav": {
+      "layout": "side"
+    },
+    "home": {
+      "landing": "work"
+    },
+    "logo": {
+      "mode": "none"
+    },
+    "background": {
+      "type": "solid"
+    },
+    "thumb": {
+      "fit": "contain",
+      "hover": "lift"
+    },
+    "gallery": {
+      "layout": "masonry",
+      "size": "medium",
+      "gutter": "normal",
+      "caption": "below",
+      "cardStyle": "card",
+      "captionDetail": "full",
+      "captionOverlay": "surface",
+      "featureFirst": false,
+      "adaptiveSpans": false,
+      "click": "lightbox",
+      "filters": false
+    },
+    "lightbox": {
+      "transition": "fade",
+      "zoom": false
+    },
+    "hero": {
+      "enabled": true,
+      "align": "left",
+      "size": "small"
+    },
+    "footer": {
+      "socials": true,
+      "credit": true
+    },
+    "favicon": {
+      "mode": "initials"
+    },
+    "pages": {
+      "about": true,
+      "contact": true,
+      "cv": true,
+      "press": true,
+      "exhibitions": false,
+      "news": false,
+      "available": false,
+      "presskit": false,
+      "commissions": false,
+      "shop": false,
+      "projects": false,
+      "stockists": false
+    }
+  }
 }
