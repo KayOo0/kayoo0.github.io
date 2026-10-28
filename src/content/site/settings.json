@@ -46,7 +46,7 @@
       "bodyFont": "Mohave",
       "headingWeight": 600,
       "bodyWeight": 400,
-      "baseSize": 18,
+      "baseSize": 20,
       "headingTransform": "none",
       "letterSpacing": 0
     },
@@ -69,7 +69,7 @@
       "mode": "none"
     },
     "background": {
-      "type": "solid"
+      "type": "texture"
     },
     "thumb": {
       "fit": "contain",
@@ -83,14 +83,14 @@
       "cardStyle": "card",
       "captionDetail": "full",
       "captionOverlay": "surface",
-      "featureFirst": false,
-      "adaptiveSpans": false,
+      "featureFirst": true,
+      "adaptiveSpans": true,
       "click": "lightbox",
       "filters": false
     },
     "lightbox": {
       "transition": "fade",
-      "zoom": false
+      "zoom": true
     },
     "hero": {
       "enabled": true,
