@@ -1,7 +1,7 @@
 {
   "siteTitle": "Kayo",
-  "tagline": "",
-  "logoText": "Highschool & BAS Visual Art Portfolio",
+  "tagline": "Traditionally made visual artworks ranging from sketches and drawings to paintings and sculptures.",
+  "logoText": "Kayo’s High School & BAS Visual Art Portfolio",
   "theme": "default",
   "fontPairing": "jost-hanken-grotesk",
   "portfolioLayout": "masonry",
@@ -14,7 +14,7 @@
   "newsletterInFooter": false,
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
-  "metaDescription": "",
+  "metaDescription": "Kayo Odusote’s high school visual art portfolio featuring works from his Rutgers Preparatory School art classes, also including his early interdisciplinary projects from his Biological & Abstractive Synthesis independent study.",
   "socialLinks": [],
   "supportLinks": [],
   "linksEnabled": false,
