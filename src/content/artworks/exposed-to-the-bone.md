@@ -1,8 +1,8 @@
 ---
-image: ../../assets/artworks/exposed-to-the-bone-s8mpdc.jpeg
+image: ../../assets/artworks/exposed-to-the-bone-c0o44d.jpeg
 title: Exposed “To The Bone”
 year: 2026
-medium: Pencil on paper
+medium: Pencil on paper.
 status: nfs
 alt: Senior year BAS; Medium sized abstract drawing.
 order: 0
