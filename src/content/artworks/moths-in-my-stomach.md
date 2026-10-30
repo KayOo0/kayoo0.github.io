@@ -6,7 +6,6 @@ status: available
 alt: Senior year BAS; Medium sized abstract painting.
 order: 0
 featured: false
-protected: true
 ---
 
 Senior year BAS; Medium sized abstract painting.
