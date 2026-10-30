@@ -2,7 +2,7 @@
 image: ../../assets/artworks/moths-in-my-stomach-jz3zic.jpeg
 title: Moths In My Stomach
 medium: Watercolor and pen on watercolor paper.
-status: available
+status: nfs
 alt: Senior year BAS; Medium sized abstract painting.
 order: 0
 featured: false
