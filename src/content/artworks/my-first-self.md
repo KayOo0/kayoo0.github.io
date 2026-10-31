@@ -9,3 +9,4 @@ order: 14
 featured: false
 ---
 
+Freshman year final; Large sized self portrait drawing; One of two works apart of an ongoing composition.
