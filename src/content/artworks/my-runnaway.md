@@ -6,7 +6,7 @@ medium: Watercolor, color pencil, acrylic marker, charcoal, matte medium, and co
 status: nfs
 alt: Sophomore year mixed media; Medium sized abstract self portrait work; Multi layered work inspired by ‘Runaway’ by Aurora.
 video: https://youtu.be/otCkns2bpQI?si=1PBf50KkJr_Tbufs
-order: 6
+order: 10
 featured: false
 ---
 

@@ -5,7 +5,7 @@ year: 2025
 medium: Acrylic on canvas.
 status: nfs
 alt: Junior year abstract; Medium sized abstract painting; Ongoing composition.
-order: 5
+order: 9
 featured: false
 ---
 

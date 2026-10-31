@@ -5,7 +5,7 @@ year: 2026
 medium: Graphite and color pencil on paper.
 status: nfs
 alt: Junior year visual narratives; Small sized abstract drawings; Two of four planned pieces on AI Art.
-order: 4
+order: 8
 featured: false
 ---
 

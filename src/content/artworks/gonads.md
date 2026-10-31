@@ -5,7 +5,7 @@ year: 2026
 medium: Pencil and pen on paper.
 status: nfs
 alt: Senior year BAS; Medium sized drawing; Illustration of an ovary, testicle, and ovotestes.
-order: 0
+order: 3
 featured: false
 ---
 

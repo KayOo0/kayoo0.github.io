@@ -5,7 +5,7 @@ year: 2024
 medium: Color pencil on bristol paper
 status: nfs
 alt: Freshman year still life; Medium sized abstract still life drawing.
-order: 12
+order: 16
 featured: false
 ---
 
