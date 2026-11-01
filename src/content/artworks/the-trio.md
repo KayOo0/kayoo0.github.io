@@ -5,6 +5,7 @@ year: 2025
 medium: Watercolor on watercolor paper.
 status: nfs
 alt: Sophomore year final; Medium sized abstract painting; Composition of my friends, Alex and Colette, and me
+collection: intermediate-art-making
 order: 10
 featured: false
 ---
