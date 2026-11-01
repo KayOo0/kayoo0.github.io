@@ -41,12 +41,12 @@
     "preset": "forest",
     "color": {
       "background": "#10160f",
-      "surface": "#2d001d",
+      "surface": "#18211a",
       "text": "#eaf3e6",
-      "muted": "#b92d5d",
-      "accent": "#76bb40",
-      "accent2": "#ee719e",
-      "border": "#2a3a2a",
+      "muted": "#8aa088",
+      "accent": "#7fc15e",
+      "accent2": "#99244f",
+      "border": "#44001d",
       "link": "#7fc15e",
       "heading": "#eaf3e6"
     },
@@ -86,7 +86,7 @@
     },
     "gallery": {
       "layout": "masonry",
-      "size": "large",
+      "size": "medium",
       "gutter": "normal",
       "caption": "below",
       "cardStyle": "card",
@@ -94,7 +94,7 @@
       "captionOverlay": "surface",
       "featureFirst": false,
       "adaptiveSpans": false,
-      "click": "page",
+      "click": "lightbox",
       "filters": false
     },
     "lightbox": {
