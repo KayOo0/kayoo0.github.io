@@ -6,7 +6,7 @@ medium: Watercolor on watercolor paper.
 status: nfs
 alt: Junior year final; Large sized self portrait painting; One part of an ongoing abstract composition.
 collection: critique-production-1
-order: 4
+order: 2
 featured: false
 ---
 

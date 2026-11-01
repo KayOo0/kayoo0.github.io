@@ -6,7 +6,7 @@ medium: Graphite and color pencil on paper.
 status: nfs
 alt: Junior year visual narratives; Small sized abstract drawings; Two of four planned pieces on AI Art.
 collection: critique-production-1
-order: 6
+order: 3
 featured: false
 ---
 

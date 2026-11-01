@@ -6,7 +6,7 @@ medium: Pencil and pen on paper.
 status: nfs
 alt: Senior year BAS; Medium sized drawing; Illustration of an ovary, testicle, and ovotestes.
 collection: biological-abstractive-synthesis
-order: 3
+order: 11
 featured: true
 ---
 

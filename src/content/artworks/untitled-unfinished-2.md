@@ -6,7 +6,7 @@ medium: Acrylic on canvas.
 status: nfs
 alt: Junior year abstract; Medium sized abstract painting; Ongoing composition.
 collection: critique-production-1
-order: 7
+order: 13
 featured: false
 ---
 

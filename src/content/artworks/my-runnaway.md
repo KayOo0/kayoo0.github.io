@@ -7,7 +7,7 @@ status: nfs
 alt: Sophomore year mixed media; Medium sized abstract self portrait work; Multi layered work inspired by ‘Runaway’ by Aurora.
 collection: intermediate-art-making
 video: https://youtu.be/otCkns2bpQI?si=1PBf50KkJr_Tbufs
-order: 9
+order: 4
 featured: false
 ---
 
