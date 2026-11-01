@@ -41,10 +41,10 @@
     "preset": "forest",
     "color": {
       "background": "#10160f",
-      "surface": "#18211a",
+      "surface": "#551029",
       "text": "#eaf3e6",
       "muted": "#8aa088",
-      "accent": "#669d34",
+      "accent": "#76bb40",
       "accent2": "#99244f",
       "border": "#2a3a2a",
       "link": "#7fc15e",
