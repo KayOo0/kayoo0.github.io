@@ -98,8 +98,8 @@
       "filters": false
     },
     "lightbox": {
-      "transition": "fade",
-      "zoom": false
+      "transition": "slide",
+      "zoom": true
     },
     "hero": {
       "enabled": true,
