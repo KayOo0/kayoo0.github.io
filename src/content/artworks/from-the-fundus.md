@@ -6,7 +6,7 @@ medium: Acrylic on canvas.
 status: nfs
 alt: Senior year BAS; Medium sized abstract painting; Composition of the stomach.
 order: 0
-featured: false
+featured: true
 ---
 
 Senior year BAS; Medium sized abstract painting; Composition of the stomach.
