@@ -41,7 +41,7 @@
     "preset": "forest",
     "color": {
       "background": "#10160f",
-      "surface": "#18211a",
+      "surface": "#2a001a",
       "text": "#eaf3e6",
       "muted": "#8aa088",
       "accent": "#7fc15e",
@@ -86,7 +86,7 @@
     },
     "gallery": {
       "layout": "masonry",
-      "size": "medium",
+      "size": "large",
       "gutter": "normal",
       "caption": "below",
       "cardStyle": "card",
@@ -94,7 +94,7 @@
       "captionOverlay": "surface",
       "featureFirst": false,
       "adaptiveSpans": false,
-      "click": "lightbox",
+      "click": "page",
       "filters": false
     },
     "lightbox": {
