@@ -85,7 +85,7 @@
       "hover": "lift"
     },
     "gallery": {
-      "layout": "fullbleed",
+      "layout": "grid",
       "size": "medium",
       "gutter": "normal",
       "caption": "below",
