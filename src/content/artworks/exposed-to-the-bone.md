@@ -6,7 +6,7 @@ medium: Pencil on paper.
 status: nfs
 alt: Senior year BAS; Medium sized abstract drawing.
 order: 1
-featured: false
+featured: true
 ---
 
 Senior year BAS; Medium sized abstract drawing.
