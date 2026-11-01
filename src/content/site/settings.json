@@ -41,7 +41,7 @@
     "preset": "forest",
     "color": {
       "background": "#10160f",
-      "surface": "#18211a",
+      "surface": "#2c0010",
       "text": "#eaf3e6",
       "muted": "#8aa088",
       "accent": "#7fc15e",
