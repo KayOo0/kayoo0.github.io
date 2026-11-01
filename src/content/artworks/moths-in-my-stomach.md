@@ -6,7 +6,7 @@ medium: Watercolor and pen on watercolor paper.
 status: nfs
 alt: Senior year BAS; Medium sized abstract painting.
 order: 2
-featured: false
+featured: true
 ---
 
 Senior year BAS; Medium sized abstract painting.
