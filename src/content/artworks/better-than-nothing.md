@@ -5,6 +5,7 @@ year: 2023
 medium: Graphite on paper.
 status: nfs
 alt: Freshamn year personal work; Medium sized sketch.
+collection: drawing-design
 order: 9
 featured: false
 ---
