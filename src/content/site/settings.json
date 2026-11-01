@@ -1,5 +1,5 @@
 {
-  "siteTitle": "Kayo",
+  "siteTitle": "Kayo Odusote",
   "tagline": "Traditionally made visual artworks ranging from sketches and drawings to paintings and sculptures.",
   "logoText": "Kayo’s High School & BAS Visual Art Portfolio",
   "theme": "default",
@@ -38,34 +38,34 @@
   "newsletterProvider": "netlify",
   "stockists": [],
   "design": {
-    "preset": "pastel",
+    "preset": "forest",
     "color": {
-      "background": "#fbf7fb",
-      "surface": "#ffffff",
-      "text": "#3a2f4a",
-      "muted": "#9a8fb0",
-      "accent": "#9b7fd4",
-      "accent2": "#e58ab0",
-      "border": "#e6dcec",
-      "link": "#9b7fd4",
-      "heading": "#3a2f4a"
+      "background": "#10160f",
+      "surface": "#18211a",
+      "text": "#eaf3e6",
+      "muted": "#8aa088",
+      "accent": "#669d34",
+      "accent2": "#99244f",
+      "border": "#2a3a2a",
+      "link": "#7fc15e",
+      "heading": "#eaf3e6"
     },
     "type": {
       "headingFont": "Playfair Display",
       "bodyFont": "Mohave",
-      "headingWeight": 600,
+      "headingWeight": 700,
       "bodyWeight": 400,
-      "baseSize": 20,
+      "baseSize": 17,
       "headingTransform": "none",
       "letterSpacing": 0
     },
     "shape": {
-      "radius": 18,
+      "radius": 6,
       "borderWidth": 1,
-      "shadows": "soft"
+      "shadows": "none"
     },
-    "density": "airy",
-    "contentWidth": "wide",
+    "density": "normal",
+    "contentWidth": "normal",
     "readingWidth": "relaxed",
     "motion": "smooth",
     "nav": {
@@ -78,11 +78,11 @@
       "mode": "none"
     },
     "background": {
-      "type": "texture"
+      "type": "solid"
     },
     "thumb": {
-      "fit": "cover",
-      "hover": "lift"
+      "fit": "contain",
+      "hover": "zoom"
     },
     "gallery": {
       "layout": "masonry",
@@ -92,14 +92,14 @@
       "cardStyle": "card",
       "captionDetail": "full",
       "captionOverlay": "surface",
-      "featureFirst": true,
-      "adaptiveSpans": true,
-      "click": "page",
+      "featureFirst": false,
+      "adaptiveSpans": false,
+      "click": "lightbox",
       "filters": false
     },
     "lightbox": {
       "transition": "fade",
-      "zoom": true
+      "zoom": false
     },
     "hero": {
       "enabled": true,
@@ -116,13 +116,13 @@
     "pages": {
       "about": true,
       "contact": true,
-      "cv": false,
-      "press": false,
+      "cv": true,
+      "press": true,
       "exhibitions": false,
       "news": false,
-      "available": false,
+      "available": true,
       "presskit": false,
-      "commissions": false,
+      "commissions": true,
       "shop": false,
       "projects": false,
       "stockists": false
