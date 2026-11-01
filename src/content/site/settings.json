@@ -41,11 +41,11 @@
     "preset": "forest",
     "color": {
       "background": "#10160f",
-      "surface": "#551029",
+      "surface": "#3c071b",
       "text": "#eaf3e6",
-      "muted": "#8aa088",
+      "muted": "#b92d5d",
       "accent": "#76bb40",
-      "accent2": "#99244f",
+      "accent2": "#ee719e",
       "border": "#2a3a2a",
       "link": "#7fc15e",
       "heading": "#eaf3e6"
