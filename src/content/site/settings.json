@@ -85,7 +85,7 @@
       "hover": "lift"
     },
     "gallery": {
-      "layout": "grid",
+      "layout": "masonry",
       "size": "medium",
       "gutter": "normal",
       "caption": "below",
