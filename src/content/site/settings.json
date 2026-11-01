@@ -94,11 +94,11 @@
       "captionOverlay": "surface",
       "featureFirst": false,
       "adaptiveSpans": false,
-      "click": "lightbox",
+      "click": "page",
       "filters": true
     },
     "lightbox": {
-      "transition": "slide",
+      "transition": "fade",
       "zoom": true
     },
     "hero": {
