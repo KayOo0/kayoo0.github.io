@@ -65,7 +65,7 @@
       "shadows": "soft"
     },
     "density": "airy",
-    "contentWidth": "normal",
+    "contentWidth": "wide",
     "readingWidth": "relaxed",
     "motion": "smooth",
     "nav": {
@@ -81,7 +81,7 @@
       "type": "texture"
     },
     "thumb": {
-      "fit": "contain",
+      "fit": "cover",
       "hover": "lift"
     },
     "gallery": {
