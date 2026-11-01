@@ -5,6 +5,7 @@ year: 2026
 medium: Watercolor on watercolor paper.
 status: nfs
 alt: ‘26 Spring semester Memory Project; Medium sized portrait painting.
+collection: critique-production-1
 order: 5
 featured: false
 ---
