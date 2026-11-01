@@ -41,12 +41,12 @@
     "preset": "forest",
     "color": {
       "background": "#10160f",
-      "surface": "#1e0009",
+      "surface": "#18211a",
       "text": "#eaf3e6",
       "muted": "#8aa088",
       "accent": "#7fc15e",
       "accent2": "#99244f",
-      "border": "#44001d",
+      "border": "#4d0038",
       "link": "#7fc15e",
       "heading": "#eaf3e6"
     },
@@ -86,7 +86,7 @@
     },
     "gallery": {
       "layout": "masonry",
-      "size": "large",
+      "size": "medium",
       "gutter": "normal",
       "caption": "below",
       "cardStyle": "card",
@@ -116,13 +116,13 @@
     "pages": {
       "about": true,
       "contact": true,
-      "cv": false,
-      "press": false,
+      "cv": true,
+      "press": true,
       "exhibitions": false,
       "news": false,
-      "available": false,
+      "available": true,
       "presskit": false,
-      "commissions": false,
+      "commissions": true,
       "shop": false,
       "projects": false,
       "stockists": false
