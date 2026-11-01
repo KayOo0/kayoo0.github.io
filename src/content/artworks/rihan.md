@@ -1,6 +1,6 @@
 ---
 image: ../../assets/artworks/rihan-uaq6he.webp
-title: Rihan
+title: Rihan.
 year: 2024
 medium: Acrylic marker, graphite, and highlighter on paper.
 status: nfs
