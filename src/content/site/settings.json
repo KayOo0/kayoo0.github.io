@@ -94,7 +94,7 @@
       "captionOverlay": "surface",
       "featureFirst": false,
       "adaptiveSpans": false,
-      "click": "lightbox",
+      "click": "page",
       "filters": false
     },
     "lightbox": {
