@@ -5,6 +5,7 @@ year: 2026
 medium: Watercolor and pen on watercolor paper.
 status: nfs
 alt: Senior year BAS; Medium sized abstract painting.
+collection: biological-abstractive-synthesis
 order: 2
 featured: true
 ---
