@@ -1,5 +1,7 @@
 ---
 title: Contact
+intro: I’d love to hear from you or answer any questions you may have!
+email: Olusoreodusote@gmail.com
 formEnabled: true
 ---
 
