@@ -6,7 +6,7 @@ medium: Pencil on paper.
 status: nfs
 alt: Senior year BAS Independent Study; Medium sized abstract drawing.
 collection: biological-abstractive-synthesis
-order: 1
+order: 11
 featured: true
 ---
 

@@ -6,7 +6,7 @@ medium: Watercolor on watercolor paper.
 status: nfs
 alt: Sophomore year final; Medium sized abstract painting; Composition of my friends, Alex and Colette, and me
 collection: intermediate-art-making
-order: 15
+order: 16
 featured: false
 ---
 

@@ -6,7 +6,7 @@ medium: Graphite on watercolor paper.
 status: nfs
 alt: Freshman year final; Large sized self portrait drawing; One of two works apart of an ongoing composition.
 collection: drawing-design
-order: 18
+order: 19
 featured: false
 ---
 

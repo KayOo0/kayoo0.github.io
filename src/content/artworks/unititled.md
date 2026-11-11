@@ -6,7 +6,7 @@ medium: Paper plates and glue on foam board.
 status: nfs
 alt: Junior year non objective; Large sized abstract sculpture.
 collection: critique-production-1
-order: 14
+order: 15
 featured: false
 ---
 
