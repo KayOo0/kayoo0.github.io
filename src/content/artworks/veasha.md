@@ -6,7 +6,7 @@ medium: Watercolor on watercolor paper.
 status: nfs
 alt: ‘26 Spring semester Memory Project; Medium sized portrait painting.
 collection: memory-project
-order: 13
+order: 14
 featured: false
 ---
 

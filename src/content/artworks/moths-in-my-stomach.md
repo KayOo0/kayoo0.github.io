@@ -6,7 +6,7 @@ medium: Watercolor and pen on watercolor paper.
 status: nfs
 alt: Senior year BAS Independent Study; Medium sized abstract painting.
 collection: biological-abstractive-synthesis
-order: 10
+order: 11
 featured: true
 ---
 
