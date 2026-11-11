@@ -4,10 +4,10 @@ title: Gonads
 year: 2026
 medium: Pencil and pen on paper.
 status: nfs
-alt: Senior year BAS; Medium sized drawing; Illustration of an ovary, testicle, and ovotestes.
+alt: Senior year BAS Independent Study; Medium sized drawing; Illustration of an ovary, testicle, and ovotestes.
 collection: biological-abstractive-synthesis
 order: 11
 featured: true
 ---
 
-Senior year BAS; Medium sized drawing; Illustration of an ovary, testicle, and ovotestes.
+Senior year BAS Independent Study; Medium sized drawing; Illustration of an ovary, testicle, and ovotestes.
