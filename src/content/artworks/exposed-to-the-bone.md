@@ -6,7 +6,7 @@ medium: Graphite on paper.
 status: nfs
 alt: Senior year BAS Independent Study; Medium sized abstract drawing.
 collection: biological-abstractive-synthesis
-order: 11
+order: 12
 featured: true
 ---
 

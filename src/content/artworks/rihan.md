@@ -6,7 +6,7 @@ medium: Acrylic marker, graphite, and highlighter on paper.
 status: nfs
 alt: ‘24 Fall semester Memory Project; Medium sized portrait work.
 collection: memory-project
-order: 6
+order: 16
 featured: false
 ---
 
