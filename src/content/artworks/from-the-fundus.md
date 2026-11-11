@@ -4,7 +4,7 @@ title: From The Fundus
 year: 2026
 medium: Acrylic on canvas.
 status: nfs
-alt: Senior year BAS; Medium sized abstract painting; Composition of the stomach.
+alt: Senior year BAS Independent Study; Medium sized abstract painting; Composition of the stomach.
 collection: biological-abstractive-synthesis
 order: 0
 featured: true
