@@ -4,13 +4,13 @@ title: Moths In My Stomach
 year: 2026
 medium: Watercolor and pen on watercolor paper.
 status: nfs
-alt: Senior year BAS; Medium sized abstract painting.
+alt: Senior year BAS Independent Study; Medium sized abstract painting.
 collection: biological-abstractive-synthesis
 order: 10
 featured: true
 ---
 
-Senior year BAS; Medium sized abstract painting.
+Senior year BAS Independent Study; Medium sized abstract painting.
 
 “[Moths] In My Stomach”
 
