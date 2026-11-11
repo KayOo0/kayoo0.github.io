@@ -10,4 +10,4 @@ order: 0
 featured: true
 ---
 
-Senior year BAS; Medium sized abstract painting; Composition of the stomach.
+Senior year BAS Independent Study; Medium sized abstract painting; Composition of the stomach.
